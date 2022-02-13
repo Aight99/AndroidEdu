@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="hello_world">А вы правда хеловорд?</string>
+    <string name="button">Тыкалка</string>
+    <string name="kit">С У П Е Р К О Т И К</string>
+    <string name="settings">settings</string>
+    <string name="search">search</string>
+    <string name="author">author</string>
+</resources>
