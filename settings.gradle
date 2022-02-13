@@ -7,5 +7,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "WinterCamp"
-include ':app'
 include ':first'
